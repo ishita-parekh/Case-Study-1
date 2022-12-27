@@ -27,5 +27,6 @@ He plans on using these insights to help him decide whether he should expand the
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 Bonus Questions
+
 11. Join all the tables to get customer_id, order_date, price, product_name and member (where member would Yes or No based on customer is a member or not)
 12. Rank the table obatined from previous output, when customer is not a member ranking should be null
