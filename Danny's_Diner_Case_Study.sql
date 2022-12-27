@@ -1,3 +1,20 @@
+/*
+Danny's Diner Case Study
+---------------------------
+Functions Used: 
+Aggregate Functions(SUM, MIN MAX)
+INNER and LEFT JOIN
+Windows Functions
+CTEs
+
+*/
+
+---------------------------
+
+--Author: Ishita Parekh
+
+---------------------------
+
 -- members table
 SELECT *
 FROM dannys_diner.members
